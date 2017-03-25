@@ -1,11 +1,18 @@
-function binarySearch(list = [], element) {
+/**
+ * Бинарный поиск
+ * Сложность алгоритма O(log n)
+ * @param array
+ * @param element
+ * @return {{index: number, iterations: number}}
+ */
+function binarySearch(array = [], element) {
     let low = 0;
-    let high = list.length - 1;
+    let high = array.length - 1;
     let iterations = 0;
 
     while (low <= high) {
         let middle = Math.floor((high + low) / 2);
-        let guess = list[middle];
+        let guess = array[middle];
         iterations++;
 
         console.log('---');
