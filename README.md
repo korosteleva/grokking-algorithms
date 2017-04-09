@@ -16,4 +16,5 @@ http://adit.io/posts/2016-05-25-Grokking-Algorithms-Is-Out.html
     <li><a href="https://github.com/korosteleva/grokking-algorithms/blob/master/selection-sort.js" target="_blank">Сортировка выбором</a></li>
     <li><a href="https://github.com/korosteleva/grokking-algorithms/blob/master/euclidean-algorithm.js" target="_blank">Алгоритм Евклида</a></li>
     <li><a href="https://github.com/korosteleva/grokking-algorithms/blob/master/breadth-first-search.js" target="_blank">Поиск в ширину</a></li>
+    <li><a href="https://github.com/korosteleva/grokking-algorithms/blob/master/dijkstra-algorithm.js" target="_blank">Алгоритм Дейкстры</a></li>
 </ul>
