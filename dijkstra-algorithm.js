@@ -37,7 +37,7 @@ let graph = {
 let costs = {
     a: 6,
     b: 2,
-    end: null
+    end: Infinity
 };
 
 /**
